@@ -3,7 +3,7 @@ import './Two.css';
 function Two() {
     return (
       <section className="two">
-        <h2>Two</h2>
+        <h1>Two</h1>
         <p>
           Nunc commodo, ipsum id placerat tincidunt, eros justo viverra ligula,
           vitae facilisis turpis sem id ante. Praesent porttitor massa sed elit
